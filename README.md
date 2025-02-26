@@ -1,8 +1,8 @@
-### BITS_Dissertation
+## BITS_Dissertation
 Application of Prompt Engineering using NLP in generating Programming Code
 
 
-# 📌 Project Overview
+### 📌 Project Overview
 This project explores the **application of Prompt Engineering and NLP** for **automatic code generation** in Python and Java. The primary objective is to **enhance code generation capabilities** using advanced **prompt engineering techniques** such as:
 - **Zero-Shot Learning (ZSL)**
 - **Few-Shot Learning (FSL)**
